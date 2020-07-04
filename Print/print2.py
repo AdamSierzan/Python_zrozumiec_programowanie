@@ -1,0 +1,1 @@
+print("Moje ulubione potrawy to:", "spaghetti,", "pad thai,", "chinczyk.", sep='\n')
