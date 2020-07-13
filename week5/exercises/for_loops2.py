@@ -1,3 +1,4 @@
+# Modify the formatting number exercise - use for loops instead
 your_phone_num  = input("Type your phone number: ")
 your_phone_num = your_phone_num.replace("-", "")
 new_phone_number = ""

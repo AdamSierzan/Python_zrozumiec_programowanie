@@ -1,3 +1,5 @@
+# ASk the user for grades, use while loop to ask for next grade, and
+# to end it when he types X. Check the average of grades
 counter  = 1
 grades = []
 while counter:
