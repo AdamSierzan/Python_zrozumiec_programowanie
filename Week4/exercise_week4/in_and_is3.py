@@ -7,7 +7,7 @@ if  value_1 is False:
     print("value_1 is not False")
 
 if value_1 is  None:
-    value_1("value_1 is not None")
+    print("value_1 is not None")
 
 else: 
     print("It's different value")
