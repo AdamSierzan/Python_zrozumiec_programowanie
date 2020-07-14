@@ -15,7 +15,7 @@ grades_data = {
     "Math": [5, 4, 3, 6],
     "Physics": [4, 3, 2, 5]
 }
- the_best_grade, subject = find_best_grade(grades_data)
+the_best_grade, subject = find_best_grade(grades_data)
 print(f"Best grade is  {the_best_grade} and it's  {subject} grade")
 
 result = find_best_grade(grades_data)
